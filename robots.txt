@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /double-launcher/
+Allow: /double-launcher/
 Allow: /sitemap.xml
 Disallow: /sitemap2.xml
-Allow: /d-l/
+Disallow: /d-l/
